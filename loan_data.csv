@@ -1,0 +1,11 @@
+Customer_ID,Age,Gender,Income,Credit_Score,Loan_Amount,Loan_Term,Loan_Purpose,Previous_Default,Defaulted
+C001,35,Male,45000,720,200000,60,Home,No,No
+C002,42,Female,52000,680,150000,48,Car,No,No
+C003,29,Male,30000,610,100000,36,Education,Yes,Yes
+C004,50,Female,60000,780,250000,72,Home,No,No
+C005,23,Male,28000,580,80000,24,Car,Yes,Yes
+C006,38,Female,49000,690,120000,36,Business,No,No
+C007,31,Male,32000,600,90000,36,Education,Yes,Yes
+C008,45,Female,70000,740,300000,60,Home,No,No
+C009,27,Male,34000,610,95000,24,Car,Yes,Yes
+C010,40,Female,55000,710,180000,48,Business,No,No
